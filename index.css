@@ -1,0 +1,128 @@
+  * {
+    margin: 0
+  }
+
+  html,
+  body {
+    width: 100%;
+    font-size: 20px;
+    height: 100%;
+  }
+
+  .main {
+    color: black;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .left-top {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+    margin: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .center-top {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+    margin: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .right-top {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+    margin: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .left-bottom {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+    margin: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .center-bottom {
+    display: inline-block;
+    margin: 20px;
+    width: 30%;
+    height: 40%;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .right-bottom {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
+    margin: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  .part {
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+  nav {
+    margin-top: 1rem;
+    color: rgba(255, 255, 255, .7);
+    text-decoration: none;
+    font-size: .8rem;
+  }
+
+  nav a,
+  nav a:visited {
+    color: rgba(255, 255, 255, .7);
+    text-decoration: none;
+    font-size: .8rem;
+  }
+
+  nav a:hover {
+    color: rgba(255, 255, 255)
+  }
+
+  body {
+    background: rgb(255, 181, 181);
+    background: linear-gradient(142deg, rgb(182, 223, 159) 0%, rgb(38, 111, 170) 88%);
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  #t1,
+  #t2,
+  #t3,
+  #t4,
+  #t5,
+  #t6 {
+    font-size: 3rem;
+    font-weight: 800;
+  }

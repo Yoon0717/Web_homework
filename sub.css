@@ -1,0 +1,17 @@
+  .content {
+    margin: 15px;
+  }
+  #head {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+    font-weight: 800;
+  }
+  a,
+  a:visited {
+    color: rgba(255, 255, 255, .7);
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgba(255, 255, 255)
+  }

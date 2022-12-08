@@ -92,7 +92,7 @@
   .part {
     font-family: 'Noto Sans KR', sans-serif;
   }
-
+  
   nav {
     margin-top: 1rem;
     color: rgba(255, 255, 255, .7);
@@ -113,7 +113,7 @@
 
   body {
     background: rgb(255, 181, 181);
-    background: linear-gradient(142deg, rgb(182, 223, 159) 0%, rgb(38, 111, 170) 88%);
+    background: linear-gradient(142deg, rgb(182, 223, 159) 0%, rgb(38, 111, 170) 90%);
     font-family: 'Open Sans', sans-serif;
   }
 
